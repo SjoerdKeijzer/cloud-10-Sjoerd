@@ -1,14 +1,15 @@
-# Testing out Github
-[Made first couple commits to explore Github functionalities]
+[Onderwerp]
+[Geef een korte beschrijving van het onderwerp]
 
-## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+Key-terms
+[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
 
-### Sources
-[List the sources you used for solving the exercise]
+Opdracht
+Gebruikte bronnen
+[Plaats hier de bronnen die je hebt gebruikt.]
 
-### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+Ervaren problemen
+[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
-### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+Resultaat
+[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
