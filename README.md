@@ -1,15 +1,17 @@
-[Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# [Subject]
+[Give a short summary of the subject matter.]
 
-Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+## Key terminology
+[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
 
-Opdracht
-Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+## Exercise
+[Describe used recoures here]
 
-Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+### Sources
+[List the sources you used for solving the exercise]
 
-Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+### Overcome challenges
+[Give a short description of the challeges you encountered, and how you solved them.]
+
+### Results
+[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
