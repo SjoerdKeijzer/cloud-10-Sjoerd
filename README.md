@@ -1,5 +1,5 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# [Testing out Github]
+[Made first couple commits to explore Github functionalities]
 
 ## Key terminology
 [Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
